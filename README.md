@@ -28,5 +28,5 @@ If you are developing a production application, we recommend updating the config
 
 ### UNIT TESTING
 
-![status](./src/assets/All%20Passe.png)
-![details](./src/assets/Details.png)
+![status](./assets/All%20Passe.png)
+![details](./assets/Details.png)
